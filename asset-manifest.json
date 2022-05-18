@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/algodomain-task1/static/css/main.48216c02.css",
+    "main.js": "/algodomain-task1/static/js/main.a5eced91.js",
+    "index.html": "/algodomain-task1/index.html",
+    "main.48216c02.css.map": "/algodomain-task1/static/css/main.48216c02.css.map",
+    "main.a5eced91.js.map": "/algodomain-task1/static/js/main.a5eced91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48216c02.css",
+    "static/js/main.a5eced91.js"
+  ]
+}
